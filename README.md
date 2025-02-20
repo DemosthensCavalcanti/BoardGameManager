@@ -17,25 +17,25 @@ O Board Game Manager é um sistema simples para gerenciar uma coleção de jogos
 
 📂 Estrutura do Projeto
 
-BoardGameManager/
-│── src/
-│   ├── model/
-│   │   ├── BoardGame.java
-│   │   ├── GameNotFoundException.java
-│   ├── persistence/
-│   │   ├── DataManager.java
-│   ├── service/
-│   │   ├── BoardGameManager.java
-│   │   ├── BoardGameManagerTest.java
-│── README.md
-│── .gitignore
-│── pom.xml
+BoardGameManager/<br>
+│── src/<br>
+│   ├── model/<br>
+│   │   ├── BoardGame.java<br>
+│   │   ├── GameNotFoundException.java<br>
+│   ├── persistence/<br>
+│   │   ├── DataManager.java<br>
+│   ├── service/<br>
+│   │   ├── BoardGameManager.java<br>
+│   │   ├── BoardGameManagerTest.java<br>
+│── README.md<br>
+│── .gitignore<br>
+│── pom.xml<br>
 
 📌 Como Executar o Projeto
 
 1️⃣ Clonar o Repositório
 
-git clone https://github.com/DemosthensCavalcanti/BoardGameManager.git
+git clone https://github.com/DemosthensCavalcanti/BoardGameManager.git <br>
 cd BoardGameManager
 
 2️⃣ Compilar o Projeto
