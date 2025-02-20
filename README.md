@@ -4,16 +4,16 @@ O Board Game Manager é um sistema simples para gerenciar uma coleção de jogos
 
 🚀 Funcionalidades
 
-✅ Cadastrar jogos de tabuleiro
-✅ Pesquisar jogos por categoria
-✅ Remover jogos do catálogo
-✅ Salvar e carregar dados automaticamente
+✅ Cadastrar jogos de tabuleiro<br>
+✅ Pesquisar jogos por categoria<br>
+✅ Remover jogos do catálogo<br>
+✅ Salvar e carregar dados automaticamente<br>
 
-🛠️ Tecnologias Utilizadas
-	•	Java 17+
-	•	JUnit 5 para testes automatizados
-	•	Serialização de Objetos para persistência de dados
-	•	Coleções Java (Map) para armazenar os jogos
+🛠️ Tecnologias Utilizadas<br>
+	•	Java 17+<br>
+	•	JUnit 5 para testes automatizados<br>
+	•	Serialização de Objetos para persistência de dados<br>
+	•	Coleções Java (Map) para armazenar os jogos<br>
 
 📂 Estrutura do Projeto
 
@@ -78,3 +78,12 @@ manager.removeGame("Uno");
 Se um jogo não for encontrado ao tentar removê-lo, o sistema lançará uma exceção:
 
 Exception in thread "main" GameNotFoundException: Jogo não encontrado: Uno
+
+### Licença
+
+Este projeto está licenciado sob a MIT License.
+
+### Autor
+
+Demosthens Cavalcanti<br>
+https://www.linkedin.com/in/demosthens-cavalcanti-4a0b9627b/ | demosthenscf@gmail.com
