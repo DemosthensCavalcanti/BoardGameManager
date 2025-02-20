@@ -1,1 +1,1 @@
-# BoardGameManager
+# br.ufpb.dcx.demosthens.farias.boardgame.BoardGameManager
